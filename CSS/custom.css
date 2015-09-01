@@ -1,0 +1,36 @@
+/* 
+
+Foreign Policy Design Group
+Landing page
+
+*/
+
+
+body {
+  background-color:black !important;
+  background: url(../assets/GALLERY&CO_WEBSITE_V02.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#link {
+	width: 1440px;
+	height:900px;
+	background-color:transparent;
+}
+
+@media (max-width: 640px) {
+
+
+body {
+  background-color:black !important;
+  background: url(../assets/GALLERY&CO_MOBILE_V01.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+}
